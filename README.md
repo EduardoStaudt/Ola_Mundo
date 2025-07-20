@@ -1,7 +1,7 @@
 # Olá, Mundo!
 **Primeiro repositório versionado de git comecando os estudos.**
 
-Repositório criado durante o curso do Gustavo Guanabara.
+Repositório criado durante o curso do __Gustavo__ __Guanabara__.
 
 Eu adicionei está linha diretamente pelo github que impressionamnte ksksksksksk.
 
